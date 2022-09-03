@@ -20,6 +20,7 @@ struct FTMessage{
     order_amount: U128
 }
 
+#[near_bindgen]
 impl FungibleTokenReciever for EcommerceContract {
     fn ft_on_transfer(&mut self, sender_id: AccountId, amount: U128, msg: String) -> PromiseOrValue<U128> {
         assert_eq!(env::predecessor_account_id(), self.ft_contract_id);

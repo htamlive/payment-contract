@@ -37,6 +37,7 @@ pub trait ExtEcommerceContract{
     fn transfer_callback(&mut self, order_id: OrderId) -> PromiseOrValue<U128> ;
 }
 
+//if we don't have marco near_bindgen, near doesn't deploy the function in contract
 //near bindgen has marco #init
 #[near_bindgen]
 impl EcommerceContract{
