@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "test": "ava",
+        "test:testnet": "ava --config ./ava.testnet.config.cjs"
+    },
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express-generator": "^4.16.1"
+    }
+}

@@ -1,0 +1,11 @@
+/home/htamlive/Desktop/UIT_HCM/uit-commerce-payment-rs/target/debug/deps/getrandom-fc5971eceee3f78f.rmeta: /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs
+
+/home/htamlive/Desktop/UIT_HCM/uit-commerce-payment-rs/target/debug/deps/getrandom-fc5971eceee3f78f.d: /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs
+
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs:

@@ -1,0 +1,11 @@
+/home/htamlive/Desktop/UIT_HCM/uit-commerce-payment-rs/target/debug/deps/arrayvec-bda33a6371c97bbb.rmeta: /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/home/htamlive/Desktop/UIT_HCM/uit-commerce-payment-rs/target/debug/deps/arrayvec-bda33a6371c97bbb.d: /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs:
+/home/htamlive/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs:
